@@ -1,3 +1,3 @@
 # react-native-expo-template
 
-# ok
+-  yarn create expo -t expo-template-tabs
