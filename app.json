@@ -24,7 +24,7 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "",
+      "package": "com.maioradv.myapp",
       "googleServicesFile": ""
     },
     "web": {
@@ -37,7 +37,10 @@
     ],
     "extra": {
       "eas": {
-        "projectId": ""
+        "projectId": "1bad90fb-017d-4f51-be6e-40f6bfba3d8e"
+      },
+      "router": {
+        "origin": false
       }
     },
     "experiments": {
