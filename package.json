@@ -7,7 +7,10 @@
     "android": "expo run:android",
     "ios": "expo run:ios",
     "web": "expo start --web",
-    "test": "jest --watchAll"
+    "test": "jest --watchAll",
+    "buildall": "eas build -p all --profile preview",
+    "buildandroid": "eas build -p android --profile preview",
+    "buildios": "eas build -p ios --profile preview"
   },
   "jest": {
     "preset": "jest-expo"
